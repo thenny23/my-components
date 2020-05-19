@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+footer {
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Arial', sans-serif;
+  width: 100%;
+}
+
+footer p {
+  color: rgba(184, 184, 184, 1);
+  margin: 1rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgba(187, 37, 110, 1);
+  padding:  .8rem;
+}
+
+nav a:hover {
+  color: rgba(229, 67, 145, 1);
+  transition: color .15s ease-in-out;
+}

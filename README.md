@@ -1,3 +1,3 @@
 # my-components
 
-#A sample components repository.
+A sample components repository.
